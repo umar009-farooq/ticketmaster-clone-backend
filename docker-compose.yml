@@ -11,6 +11,8 @@ services:
       POSTGRES_PASSWORD: postgres
     ports:
       - "5432:5432"
+    volumes:
+      - auth_db_data:/var/lib/postgresql/data
 
   auth-service:
     build: ./auth-service
@@ -19,3 +21,6 @@ services:
       - "8081:8081"
     depends_on:
       - postgres
+
+volumes:
+  auth_db_data:

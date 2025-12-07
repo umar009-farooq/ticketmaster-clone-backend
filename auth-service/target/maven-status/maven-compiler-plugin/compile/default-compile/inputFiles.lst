@@ -1,6 +1,12 @@
 /home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/AuthServiceApplication.java
-/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/config/SecurityConfig.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/config/ApplicationConfig.java
 /home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/controller/AuthController.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/dto/LoginRequest.java
 /home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/dto/RegisterRequest.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/entity/Role.java
 /home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/entity/User.java
 /home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/repository/UserRepository.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/security/CustomUserDetailsService.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/security/JwtAuthFilter.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/security/JwtUtil.java
+/home/umar/Desktop/RabbitMq/ticketmaster-clone-backend/auth-service/src/main/java/com/ticketing/auth/security/SecurityConfig.java
