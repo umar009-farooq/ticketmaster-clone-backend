@@ -1,0 +1,7 @@
+com/ticketing/auth/repository/UserRepository.class
+com/ticketing/auth/controller/AuthController.class
+com/ticketing/auth/entity/User.class
+com/ticketing/auth/AuthServiceApplication.class
+com/ticketing/auth/dto/RegisterRequest.class
+com/ticketing/auth/config/SecurityConfig.class
+com/ticketing/auth/entity/User$UserBuilder.class
